@@ -11,12 +11,12 @@ I live in Thailand Studying and spending free time to sit and fix the code day b
 
 [![Join my Discord server](https://img.shields.io/discord/1099365394344587324?color=7289da&label=Join%20my%20Discord%20server&logo=discord&logoColor=ffffff)](https://discord.gg/5akPMbREmt)
 
-</h2>
-
 <p align="center">
   <a href="https://github.com/SerlaszX"><img src="https://img.shields.io/github/followers/SerlaszX?style=for-the-badge"></img></a>
   <a href="https://github.com/SerlaszX"><img src="https://img.shields.io/github/stars/SerlaszX?style=for-the-badge"></img></a>
 </p>
+</h2>
+
 
 <h3 align="center">Languages and Tools:</h3>
  <br>
