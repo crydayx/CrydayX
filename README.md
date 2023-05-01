@@ -1,5 +1,3 @@
-<p align="center">
-
 # Hi there 👋
 - I'm Nick age ? 
 
