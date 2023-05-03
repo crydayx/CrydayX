@@ -45,7 +45,9 @@ I live in Thailand Studying and spending free time to sit and fix the code day b
 
 <h2 align="center">Discord</h2><br>
   <p align="center">
+    <a href="#">
         <img title="lAS_X" alt="REgev dc" src="https://discord.c99.nl/widget/theme-4/1069256915751796756.png"/>
+    </a>
 </p>
 
 <a href = "https://github.com/Anant-mishra1729?tab=repositories"><img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:00c7ad,75:6e97fd,100:5d52ac" width = "100%"/></a>
