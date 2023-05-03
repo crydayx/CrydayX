@@ -3,11 +3,12 @@
 
 I live in Thailand Studying and spending free time to sit and fix the code day by day.
 
-- 💬 Discord [SerlaszX#0001](https://discord.gg/5akPMbREmt)
+- 💬 Discord **SerlaszX#0001**
 
 <h2 align="center">
 
-[![Join my Discord server](https://img.shields.io/discord/1099365394344587324?color=7289da&label=Join%20my%20Discord%20server&logo=discord&logoColor=ffffff)](https://discord.gg/5akPMbREmt)
+<img src="https://komarev.com/ghpvc/?username=SerlaszX&label=Profile%20views&color=321CBA&style=for-the-badge" alt="SerlaszX" />
+
 
 <p align="center">
   <a href="https://github.com/SerlaszX"><img src="https://img.shields.io/github/followers/SerlaszX?style=for-the-badge"></img></a>
