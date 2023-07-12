@@ -3,7 +3,7 @@
 
 I live in Thailand Studying and spending free time to sit and fix the code day by day.
 
-- 💬 Discord **SerlaszX#0001**
+- 💬 Discord **SerlasX#9999**
 
 <h2 align="center">
 
