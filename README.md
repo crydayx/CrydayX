@@ -47,6 +47,7 @@ I live in Thailand Studying and spending free time to sit and fix the code day b
   <p align="center">
     <a href="#">
         <img title="lAS_X" alt="REgev dc" src="https://discord.c99.nl/widget/theme-4/1069256915751796756.png"/>
+      <img title="lAS_X" alt="REgev dc" src="https://discord.c99.nl/widget/theme-4/1074980560843309166.png"/>
     </a>
 </p>
 
