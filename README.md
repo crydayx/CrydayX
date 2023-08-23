@@ -3,7 +3,7 @@
 
 I live in Thailand Studying and spending free time to sit and fix the code day by day.
 
-- 💬 Discord **SerlasX#9999**
+- 💬 Discord **Cryday#1337**
 
 <h2 align="center">
 
@@ -47,7 +47,6 @@ I live in Thailand Studying and spending free time to sit and fix the code day b
 <h2 align="center">Discord</h2><br>
   <p align="center">
     <a href="#">
-        <img title="lAS_X" alt="REgev dc" src="https://discord.c99.nl/widget/theme-4/1069256915751796756.png"/>
       <img title="Crydayx" alt="REgev dc" src="https://discord.c99.nl/widget/theme-4/1074980560843309166.png"/>
     </a>
 </p>
