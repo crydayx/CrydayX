@@ -7,12 +7,12 @@ I live in Thailand Studying and spending free time to sit and fix the code day b
 
 <h2 align="center">
 
-<img src="https://komarev.com/ghpvc/?username=SerlaszX&label=Profile%20views&color=321CBA&style=for-the-badge" alt="SerlaszX" />
+<img src="https://komarev.com/ghpvc/?username=crydayx&label=Profile%20views&color=321CBA&style=for-the-badge" alt="crydayx" />
 
 
 <p align="center">
-  <a href="https://github.com/SerlaszX"><img src="https://img.shields.io/github/followers/SerlaszX?style=for-the-badge"></img></a>
-  <a href="https://github.com/SerlaszX"><img src="https://img.shields.io/github/stars/SerlaszX?style=for-the-badge"></img></a>
+  <a href="https://github.com/crydayx"><img src="https://img.shields.io/github/followers/crydayx?style=for-the-badge"></img></a>
+  <a href="https://github.com/crydayx"><img src="https://img.shields.io/github/stars/crydayx?style=for-the-badge"></img></a>
 </p>
 </h2>
 
